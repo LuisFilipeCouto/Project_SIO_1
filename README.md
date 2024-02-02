@@ -2,7 +2,7 @@
 
 ### About the project
 This project is focused on the existence of vulnerabilities in software projects, their exploration and avoidance <br>
-In this particular project, the vulnerabilities explored are:
+In this particular case, the vulnerabilities explored are:
 * [CWE-20](https://cwe.mitre.org/data/definitions/20.html): Improper Input Validation
 * [CWE-79](https://cwe.mitre.org/data/definitions/79.html): Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') - **Stored XSS**
 * [CWE-89](https://cwe.mitre.org/data/definitions/89.html): Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')
