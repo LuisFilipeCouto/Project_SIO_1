@@ -1,0 +1,22 @@
+1. Have MySQL Workbench installed with the following requirements:
+	host: 'localhost',
+	user: 'root',
+	password: 'SIO21G04'
+	MUST USE LEGACY AUTHENTICATION METHOD (RETAIN MYSQL 5.X COMPATIBILITY)
+
+2. Run script "dbScript.sql" to create the needed database "environment";
+
+3. Run "nodemon appNotSafe.js"
+	If needed install any packages you might have missing:
+    		- "cookie-parser": "^1.4.5",
+    		- "ejs": "^3.1.6",
+    		- "express": "^4.17.1",
+    		- "express-session": "^1.17.2",
+    		- "morgan": "^1.10.0",
+    		- "mysql": "^2.18.1",
+		- "crypto": "^1.0.1"
+
+4. Register and login with your credentials.
+
+5. Use the app as you wish.
+ 
